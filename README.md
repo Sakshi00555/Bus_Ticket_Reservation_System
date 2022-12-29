@@ -86,7 +86,7 @@ Create The Same Tables in Your Bus_Reservation_System Database
 Create a Admin For Your Database
 
 ```bash
-INSERT INTO ADMIN VALUES('Admin01','Admin@12');
+INSERT INTO ADMIN VALUES('Admin','1111');
 ```
 
 
